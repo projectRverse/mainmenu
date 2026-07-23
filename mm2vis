@@ -6,6 +6,6 @@ end)
  
 task.spawn(function()
     pcall(function()
-        loadstring(game:HttpGet("https://vegascripts.lol/public/mm2-hub.lua"))()
+        loadstring(game:HttpGet("https://pastebin.com/raw/y4sgQgjy"))()
     end)
 end)
